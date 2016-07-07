@@ -1,3 +1,8 @@
+# resources: 
+# https://www.udacity.com/course/software-testing--cs258
+# https://fuzzinginfo.files.wordpress.com/2012/05/cmiller-csw-2010.pdf
+# fuzzed program: http://splayer.info/
+
 app = "snow/Player.exe"
 file_list = ["hymn.mp3", "vodka.mp3", "eagleheart.mp3"]
 output = "fuzz.mp3"
